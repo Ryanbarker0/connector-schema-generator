@@ -42,7 +42,7 @@ Then open the terminal and cd into the connector-schema-generator folder you hav
 ```
 node run.js
 ```
-You will then receive a JSON stringified version of the input schema (found in the `output.json` file in the director root), converted into JSON schema, appropriate for the `input` field of your `schema.js` file in the connector.
+You will then receive a JSON stringified version of the input schema (found in the `output.json` file in the directory root), converted into JSON schema, appropriate for the `input` field of your `schema.js` file in the connector.
 
 # Be aware
 
